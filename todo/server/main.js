@@ -26,6 +26,10 @@ Meteor.startup(() => {
      {
       name:"Matooke",
       price:"5000ugx"
+     },
+     {
+      name:"Matooke",
+      price:"5000ugx"
      }
      
      );
