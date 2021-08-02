@@ -22,7 +22,13 @@ Meteor.startup(() => {
     insertFood({
       name:"Matooke",
       price:"5000ugx"
-     });
+     },
+     {
+      name:"Matooke",
+      price:"5000ugx"
+     }
+     
+     );
   }
 
 
